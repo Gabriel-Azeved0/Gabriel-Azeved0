@@ -1,6 +1,4 @@
-# 💫 About Me:
-### Olá, sou o Gabriel 👋<br><br>Estudante de programação com foco em **Backend**, **Inteligência Artificial** e **Engenharia de Dados**. Atualmente em busca de oportunidades de **estágio** para aplicar meus conhecimentos na prática e evoluir profissionalmente.<br><br>---<br>
-
+### Olá, sou o Gabriel 👋<br><br>Estudante de programação com foco em **Backend**, **Inteligência Artificial** e **Engenharia de Dados**.
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/Gabriel-Azevedo-Duda) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:gabriel.azevedobc@gmail.com) 
 
